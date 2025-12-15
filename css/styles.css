@@ -1,0 +1,24 @@
+header
+{
+    display: flex;
+    flex-direction: row;
+    background-color: beige;
+    width: 100%;
+
+}
+header h1
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-left: 800px;
+}
+header img
+{
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    border-radius: 50%;
+    height: 80px;
+}
